@@ -2,6 +2,20 @@
 
 This repository showcases a complete IT infrastructure simulation and network programming suite developed for **TechXcel Solutions**. It integrates enterprise-grade network design, cloud migration strategy, and Python-based socket programming — all tested and validated using **Cisco Packet Tracer** and custom-built Python scripts.
 
+
+---
+## 🖼️ Network Architecture
+
+### 📌 Network Topology Diagram
+![Network Topology](diagrams/network_topology1.png)
+*Figure 1: Device-level topology showing routers, firewalls, switches, and endpoints across London and Liverpool offices.*
+
+### 📌 VPN-Secured Architecture
+![VPN Architecture](diagrams/network_diagram1.png)
+*Figure 2: High-level view of secure VPN connectivity between London Data Center and Liverpool Office, including wired and wireless segmentation.*
+
+
+
 ---
 
 ## 📦 Project Summary
@@ -79,3 +93,52 @@ This module demonstrates TCP and UDP communication using Python sockets.
 ```bash
 python tcp_server.py
 python tcp_client.py
+```
+
+#### UDP
+```bash
+python udp_server.py
+python udp_client.py
+```
+
+---
+
+## 🔍 TCP vs UDP Summary
+
+| Feature          | TCP                               | UDP                        |
+|------------------|-----------------------------------|----------------------------|
+| **Connection Type** | Connection-oriented               | Connectionless              |
+| **Reliability**     | High (ordered, guaranteed)        | Low (no guarantee)          |
+| **Speed**           | Moderate                         | High                        |
+| **Use Case**        | Web apps, file transfer           | Streaming, gaming, IoT      |
+
+---
+
+## 📚 Scope of Work
+This repository reflects the full scope of work completed for TechXcel Solutions:
+
+✅ Designed and simulated a scalable, secure IT infrastructure
+
+✅ Configured firewalls, routers, switches, servers, and IP phones
+
+✅ Validated system performance through simulation and stress testing
+
+✅ Developed a strategic cloud migration plan with cost and security analysis
+
+✅ Implemented and tested TCP/UDP socket programs in Python
+
+✅ Documented all configurations, diagrams, and results for professional presentation
+
+---
+
+
+## 📖 License
+
+This project is licensed under the [MIT License](LICENSE) and is intended for educational and portfolio use.
+
+---
+
+## 👨‍💻 Author
+
+**Mustan**  
+GitHub: [github.com/Mustan-dev](https://github.com/Mustan-dev)  
