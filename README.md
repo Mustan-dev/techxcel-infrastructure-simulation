@@ -11,7 +11,7 @@ This repository showcases a complete IT infrastructure simulation and network pr
 *Figure 1: Device-level topology showing routers, firewalls, switches, and endpoints across London and Liverpool offices.*
 
 ### 📌 VPN-Secured Architecture
-![VPN Architecture](diagrams/network_diagram1.png)
+![VPN Architecture](diagrams/network_diagram1.jpg)
 *Figure 2: High-level view of secure VPN connectivity between London Data Center and Liverpool Office, including wired and wireless segmentation.*
 
 
