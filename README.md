@@ -135,8 +135,8 @@ TCP Server Console
 
 
 ## 📋 Requirements
-Python 3.8+
-Cisco Packet Tracer 8.x
+- Python 3.8+
+- Cisco Packet Tracer 8.x
 
 
 ---
