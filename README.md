@@ -11,7 +11,7 @@ This repository showcases a complete IT infrastructure simulation and network pr
 *Figure 1: Device-level topology showing routers, firewalls, switches, and endpoints across London and Liverpool offices.*
 
 ### 📌 VPN-Secured Architecture
-![VPN Architecture](diagrams/network_diagram1.jpg)
+![VPN Architecture](diagrams/network_diagram1.png)
 *Figure 2: High-level view of secure VPN connectivity between London Data Center and Liverpool Office, including wired and wireless segmentation.*
 
 
@@ -35,7 +35,7 @@ Two detailed diagrams illustrate the infrastructure:
 
 | Diagram | Description |
 |--------|-------------|
-| `network_topolog1.png` | Device-level topology across both sites |
+| `network_topology1.png` | Device-level topology across both sites |
 | `network_diagram1.png` | VPN-secured inter-site architecture |
 
 These visuals were created using **Cisco Packet Tracer** to simulate real-world connectivity, redundancy, and scalability.
