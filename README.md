@@ -114,6 +114,34 @@ python udp_client.py
 
 ---
 
+## 📤 Sample Output
+```bash
+TCP Server Console
+[SERVER STARTED] Listening on 127.0.0.1:12345
+[CLIENT CONNECTED] Received: Hello, TCP Server!
+[RESPONSE SENT] Message received!
+```
+
+---
+
+## UDP Server Console
+```bash
+[UDP SERVER ACTIVE] Waiting for datagrams...
+[DATAGRAM RECEIVED] From client: Hello, UDP Server!
+[RESPONSE SENT] Message received!
+```
+
+---
+
+
+## 📋 Requirements
+Python 3.8+
+Cisco Packet Tracer 8.x
+
+
+---
+
+
 ## 📚 Scope of Work
 This repository reflects the full scope of work completed for TechXcel Solutions:
 
@@ -142,3 +170,5 @@ This project is licensed under the [MIT License](LICENSE) and is intended for ed
 
 **Mustan**  
 GitHub: [github.com/Mustan-dev](https://github.com/Mustan-dev)  
+
+---
