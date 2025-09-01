@@ -1,5 +1,5 @@
 # 🏢 TechXcel Solutions – Scalable IT Infrastructure & Network Programming
-![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco_Packet_Tracer-lightgrey.svg)
+![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco_Packet_Tracer-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
