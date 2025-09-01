@@ -1,4 +1,7 @@
 # 🏢 TechXcel Solutions – Scalable IT Infrastructure & Network Programming
+![Cisco Packet Tracer](https://img.shields.io/badge/Simulator-Cisco_Packet_Tracer-lightgrey.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 This repository showcases a complete IT infrastructure simulation and network programming suite developed for **TechXcel Solutions**. It integrates enterprise-grade network design, cloud migration strategy, and Python-based socket programming — all tested and validated using **Cisco Packet Tracer** and custom-built Python scripts.
 
